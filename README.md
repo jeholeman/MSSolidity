@@ -6,7 +6,7 @@ This is the repository where homework assignments will be submitted. There will 
 
 ### Solidity Resources
 - [Mastering Ethereum Book](https://github.com/ethereumbook/ethereumbook)
-[What are Smart Contracts?](https://www.frontiersin.org/articles/10.3389/fbloc.2020.553671/full)
+- [What are Smart Contracts?](https://www.frontiersin.org/articles/10.3389/fbloc.2020.553671/full)
 - [32 hour Solidity & Javascript Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - [The EVM Visualized (power point slides)](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 - [Ethereum Beige Paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf)
