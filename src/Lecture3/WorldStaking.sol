@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 contract WorldStaking {
     // we can interact with other contracts by declaring them as state variables
     WorldToken worldToken;
-    address deadaddress = 0xdeadbeef;
+    address deadaddress = address(0xdeadbeef);
 
     // warning: none of this code works. just for proof of concept
     function stake(uint256 amount) public {
