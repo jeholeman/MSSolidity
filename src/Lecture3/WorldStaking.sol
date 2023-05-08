@@ -13,7 +13,7 @@ contract WorldStaking {
     constructor(WorldToken _worldToken) {
         worldToken = _worldToken;
     }
-    // address deadaddress = address(0xdeadbeef);
+    //address deadaddress = address(0xdeadbeef);
 
     // warning: none of this code works. just for proof of concept
     function stake(uint256 amount) public {
