@@ -10,8 +10,9 @@ contract WorldStaking {
     WorldToken public worldToken;
 
     // initialize with constructor
-    constructor(WorldToken _worldToken) {
-        worldToken = _worldToken;
+    constructor(address deployAddress, WorldToken _worldToken) {
+        // worldToken = _worldToken;
+        WorldToken worldToken = WorldToken(deployAddress);
     }
     //address deadaddress = address(0xdeadbeef);
 
