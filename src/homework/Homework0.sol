@@ -10,7 +10,7 @@ contract Homework0 {
     }
 
     // do not edit this function
-    // function getPayment() public view returns (uint256) {
-    //     return payment;
-    // }
+    //function getPayment() public view returns (uint256) {
+        // return payment;
+   //  }
 }
